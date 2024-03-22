@@ -5,7 +5,7 @@ export default async function seed() {
 		.insert(Company)
 		.values([
 			{
-				title: 'Astro',
+				title: 'Astroooooo',
 				description: 'Open-source website framework with a focus on content',
 				logo: 'https://pbs.twimg.com/profile_images/1632785343433908224/SnMGR19O_400x400.png',
 			},
